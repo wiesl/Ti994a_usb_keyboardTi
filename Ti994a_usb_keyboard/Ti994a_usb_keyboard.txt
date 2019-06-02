@@ -1,0 +1,9 @@
+Ti994a usb Keyboard
+===================
+
+Teensy 2.0
+
+Scans a genuine Ti99/4A keyboard and converts
+all keystrokes to USB keyboard to be used
+on a PC.
+
